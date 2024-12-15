@@ -1,0 +1,16 @@
+first loop through whole array to find the smallest in the array
+    then place that smallest into the first index
+    find the index of the smallest 
+    replace index err
+    reassign arr[1] with n 
+    reassign arr[2] with arr[1]
+    reassign[3] with arr[2]
+    reassign
+
+    loop through find smallest 
+    [1,2,3]
+    [4,3,2]
+    
+    smallest is at 3 index
+    replace index arr[1] with arr[3]
+    
